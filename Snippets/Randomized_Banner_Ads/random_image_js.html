@@ -1,0 +1,35 @@
+<!doctype html>
+<html>
+<head>
+<title>GV Wire Random Ads</title>
+<script type="text/javascript">
+  var imageUrls = [
+       "http://th.images.s3.amazonaws.com/gvwire/Ads/cut_through_complicated.jpg"
+     , "http://th.images.s3.amazonaws.com/gvwire/Ads/opinions-by-bill-01.jpg"
+     , "http://th.images.s3.amazonaws.com/gvwire/Ads/opinions-by-bill-02.jpg"
+	 , "http://th.images.s3.amazonaws.com/gvwire/Ads/opinions-by-bill-03.jpg"
+	 , "http://th.images.s3.amazonaws.com/gvwire/Ads/gv_wire_human_trafficking.jpg"
+  ];
+ var imageLinks = [
+       "http://gvwire.com/category/news/politics-101/?utm_source=banner"
+     , "http://gvwire.com/category/opinion/bill-mcewen/?utm_source=banner_bill-retirement-gift"
+     , "http://gvwire.com/category/opinion/bill-mcewen/?utm_source=banner_bill-nunes"
+     , "http://gvwire.com/category/opinion/bill-mcewen/?utm_source=banner_bill-immigration"
+     , "http://gvwire.com/category/human-trafficking/?utm_source=banner"
+  ];
+
+  function getImageHtmlCode() {
+    var dataIndex = Math.floor(Math.random() * imageUrls.length);
+    var img = '<a href=\"' + imageLinks[dataIndex] + '"><img src="';        
+    img += imageUrls[dataIndex];
+    img += '\" alt=\"GVWire.com\"/></a>';
+    return img;
+  }
+</script>
+</head>
+<body bgcolor="black">
+<script type="text/javascript">
+  document.write(getImageHtmlCode());
+</script>
+</body>
+</html>

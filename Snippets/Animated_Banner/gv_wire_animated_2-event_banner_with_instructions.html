@@ -1,0 +1,126 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<!-- Updated April 2018 -->
+<title>GV Wire Event Banner</title>
+</head>
+
+<style>
+
+/* These classes were added to "Custom CSS" in the theme options and any changes should be reflected there */
+/* All heights and media queries are based on use with GVWire.com using the Valenti theme */
+
+body {
+		font-family: 'Poppins';
+	}
+@keyframes changeevent1 {
+	0% {opacity: 0; z-index: -1; pointer-events: none;}
+	5% {opacity: 1; z-index: 10; pointer-events: auto;}
+	45% {opacity: 1; z-index: 10; pointer-events: auto;}
+	48% {opacity: 0; z-index: -1; pointer-events: none;}
+	100% {opacity: 0; z-index: -1; pointer-events: none;}
+}
+@keyframes changeevent2 {
+	0% {opacity: 0; z-index: -2; pointer-events: none;}
+	50% {opacity: 0; z-index: -2; pointer-events: none;}
+	55% {opacity: 1; z-index: 10; pointer-events: auto;}
+	95% {opacity: 1; z-index: 10; pointer-events: auto;}
+	100% {opacity: 0; z-index: -2; pointer-events: none;}
+}
+@-webkit-keyframes changeevent1 {
+	0% {opacity: 0; z-index: -1; pointer-events: none;}
+	5% {opacity: 1; z-index: 10; pointer-events: auto;}
+	45% {opacity: 1; z-index: 10; pointer-events: auto;}
+	48% {opacity: 0; z-index: -1; pointer-events: none;}
+	100% {opacity: 0; z-index: -1; pointer-events: none;}
+}
+@-webkit-keyframes changeevent2 {
+	0% {opacity: 0; z-index: -2; pointer-events: none;}
+	50% {opacity: 0; z-index: -2; pointer-events: none;}
+	55% {opacity: 1; z-index: 10; pointer-events: auto;}
+	95% {opacity: 1; z-index: 10; pointer-events: auto;}
+	100% {opacity: 0; z-index: -2; pointer-events: none;}
+}
+.event-banner {
+	background-color: #f47f2e;
+	margin: auto;
+	padding: 10px 20px;
+	min-height: 40px;
+}
+.event-link {
+	max-width: 1140px;
+	margin: auto;
+}
+.event-banner a {
+	color: #ffffff;
+	text-decoration: none;
+	font-family: 'Poppins', sans-serif;
+	font-weight: bold;
+}
+#event-placeholder {
+	position: absolute;
+	z-index: 0;
+	opacity: 0;
+	padding-right: 10px;
+	pointer-events: none;
+	}
+#event-link-1 {
+	position: absolute;
+	z-index: 1;
+	animation-name: changeevent1;
+	animation-iteration-count: infinite;
+	animation-duration: 12s;
+	-webkit-animation-name: changeevent1;
+	-webkit-animation-iteration-count: infinite;
+	-webkit-animation-duration: 12s;
+	opacity: 0;
+	padding-right: 10px;
+}
+#event-link-2 {
+	position: absolute;
+	z-index: 2;
+	animation-name: changeevent2;
+	animation-iteration-count: infinite;
+	animation-duration: 12s;
+	-webkit-animation-name: changeevent2;
+	-webkit-animation-iteration-count: infinite;
+	-webkit-animation-duration: 12s;
+	opacity: 0;
+	padding-right: 10px;
+}
+	@media only screen and (max-width:650px) {
+		.event-banner {
+			height: 65px;
+		}
+	}
+	@media only screen and (max-width:350px) {
+		.event-banner {
+			height: 85px;
+		}
+	}
+
+</style>
+	
+<body>
+	
+<!-- This snippet of code should be added just before the closing head tag in the Theme_Header.php theme file -->
+	
+<div class="event-banner">
+	<div class="event-link">
+		<div id="event-placeholder">
+			<a href="#" target="_blank">Upcoming Event: District 3 Candidate Forum on April 19th &nbsp;|&nbsp; EVENT DETAILS&nbsp;&#9658;</a>
+		</div>
+		<div id="event-link-1">
+			<a href="http://gvwire.com/upcoming-events#District7" target="_blank">Upcoming Event: District 7 Candidate Forum on May 1st &nbsp;|&nbsp; EVENT DETAILS&nbsp;&#9658;</a>
+		</div>
+		<div id="event-link-2">
+			<a href="https://gvhomes.wufoo.com/forms/wkkjvmj1wepffk/" target="_blank">Community Voice: We want your candidate forum questions.&nbsp; |&nbsp; SUBMIT NOW&nbsp;&#9658;</a>
+		</div>
+	</div>
+</div>
+	
+<!-- End here -->
+
+</body>
+</html>
