@@ -1,0 +1,234 @@
+<!doctype html>
+<html>
+<head>
+  <link rel=¨stylesheet¨ type=¨text/css¨ href=¨election_2018_results.css¨>
+</head>
+<body>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+<script>
+jQuery.noConflict(true);
+jQuery(document).ready(function(){
+    jQuery("#live-filter-results").on("keyup", function() {
+    var value = jQuery(this).val().toLowerCase();
+    jQuery(".election-2018-results-group").filter(function() {
+        jQuery(this).toggle(jQuery(this).text().toLowerCase().indexOf(value) > -1)
+    });
+    });
+});
+</script>
+<div>
+  <img src="http://gvwire.com/wp-content/uploads/2018/05/2018_election_results_headline-01.jpg" width="100%">
+  <div>
+    <h2 style="text-align: center; text-transform: uppercase;">For California &amp; Fresno County Offices</h2>
+    <h4 style="text-align: center; font-style: italic;">Top two candidates for each office will be advancing to the general election on November 6th, unless otherwise noted.</h4>
+    <h5 style="text-align: center; font-style: italic;">Updated as of 11:00 am (PST) 06/14/2018 - 100% of CA precincts partially reporting</h5>
+  </div>
+  <input id="live-filter-results" type="text" placeholder="Begin typing to filter results...">
+  <div id="election-2018-results-flex-container">
+    <div class="election-2018-results-group">
+      <h2>Governor</h2>
+      <h3>TOP TWO:</h3>
+      <h3 class="democrat">Gavin Newsom - 33.9%</h3>
+      <h3 class="republican">John H. Cox - 25.7%</h3>
+      <h3 style="border-top: 1px solid #f2f2f2; margin-top: 10px; padding-top: 5px;">TOP RUNNERS-UP:</h3>
+      <h3 class="democrat">Antonio Villaraigosa - 13.0%</h3>
+      <h3 class="republican">Travis Allen - 9.5%</h3>
+    </div>
+    <div class="election-2018-results-group">
+      <h2>Lieutenant Governor</h2>
+      <h3>TOP TWO:</h3>
+      <h3 class="democrat">Eleni Kounalakis - 23.9%</h3>
+      <h3 class="democrat">Ed Hernandez - 20.4%</h3>
+    </div>
+    <div class="election-2018-results-group">
+      <h2>Secretary of State</h2>
+      <h3>TOP TWO:</h3>
+      <h3 class="democrat">Alex Padilla - 52.4%</h3>
+      <h3 class="republican">Mark P. Meuser - 31.5%</h3>
+    </div>
+    <div class="election-2018-results-group">
+      <h2>Controller</h2>
+      <h3>TOP TWO:</h3>
+      <h3 class="democrat">Betty Yee - 61.8%</h3>
+      <h3 class="republican">Konstantinos Roditis - 34.3%</h3>
+    </div>
+    <div class="election-2018-results-group">
+      <h2>Treasurer</h2>
+      <h3>TOP TWO:</h3>
+      <h3 class="democrat">Fiona Ma - 44.2%</h3>
+      <h3 class="republican">Greg Conlon - 21.3%</h3>
+    </div>
+    <div class="election-2018-results-group">
+      <h2>Attorney General</h2>
+      <h3>TOP TWO:</h3>
+      <h3 class="democrat">Xavier Becerra - 45.4%</h3>
+      <h3 class="republican">Steven C Bailey - 24.7%</h3>
+    </div>
+    <div class="election-2018-results-group">
+      <h2>Insurance Commissioner</h2>
+      <h3>TOP TWO:</h3>
+      <h3>Steve Poizner - 42.4%</h3>
+      <h3 class="democrat">Ricardo Lara - 38.9%</h3>
+    </div>
+    <div class="election-2018-results-group">
+      <h2>Board of Equalization</h2>
+      <h3>TOP TWO:</h3>
+      <h3 class="democrat">Tom Hallinan - 38.6%</h3>
+      <h3 class="republican">Ted Gaines - 32.7%</h3>
+    </div>
+    <div class="election-2018-results-group">
+      <h2>United States Senator</h2>
+      <h3>TOP TWO:</h3>
+      <h3 class="democrat">Dianne Feinstein - 44.4%</h3>
+      <h3 class="democrat">Kevin De Leon - 11.8%</h3>
+    </div>
+    <div class="election-2018-results-group">
+      <h2>Congress CA 4</h2>
+      <h3>TOP TWO:</h3>
+      <h3 class="republican">Tom McClintock - 52.4%</h3>
+      <h3 class="democrat">Jessica Morse - 20.2%</h3>
+    </div>
+    <div class="election-2018-results-group">
+      <h2>Congress CA 16</h2>
+      <h3>TOP TWO:</h3>
+      <h3 class="democrat">Jim Costa - 54.3%</h3>
+      <h3 class="republican">Elizabeth Heng - 45.7%</h3>
+    </div>
+    <div class="election-2018-results-group">
+      <h2>Congress CA 21</h2>
+      <h3>TOP TWO:</h3>
+      <h3 class="republican">David G. Valadao - 63.6%</h3>
+      <h3 class="democrat">TJ Cox - 36.4%</h3>
+    </div>
+    <div class="election-2018-results-group">
+      <h2>Congress CA 22</h2>
+      <h3>TOP TWO:</h3>
+      <h3 class="republican">Devin G. Nunes - 57.8%</h3>
+      <h3 class="democrat">Andrew Janz - 31.9%</h3>
+    </div>
+    <div class="election-2018-results-group">
+      <h2>California Senate District 8</h2>
+      <h3>TOP TWO:</h3>
+      <h3 class="republican">Andreas Borgeas - 59.6%</h3>
+      <h3 class="democrat">Paulina Miranda - 21.0%</h3>
+    </div>
+    <div class="election-2018-results-group">
+      <h2>California Senate District 12</h2>
+      <h3>TOP TWO:</h3>
+      <h3 class="democrat">Anna Caballero - 42.2%</h3>
+      <h3 class="republican">Rob Poythress - 26.8%</h3>
+    </div>
+    <div class="election-2018-results-group">
+      <h2>California Senate District 14</h2>
+      <h3>TOP TWO:</h3>
+      <h3 class="republican">Andy Vidak - 55%</h3>
+      <h3 class="democrat">Melissa Hurtado - 23%</h3>
+    </div>
+    <div class="election-2018-results-group">
+      <h2>23rd Assembly</h2>
+      <h3>TOP TWO:</h3>
+      <h3 class="republican">Jim Patterson - 65.2%</h3>
+      <h3 class="democrat">Aileen Rizo - 34.8%</h3>
+    </div>
+    <div class="election-2018-results-group">
+      <h2>31st Assembly</h2>
+      <h3>TOP TWO:</h3>
+      <h3 class="democrat">Joaquin Arambula - 59.2%</h3>
+      <h3 class="republican">Lupe Espinoza - 40.8%</h3>
+    </div>
+    <div class="election-2018-results-group">
+      <h2>Superior Court Judge 4</h2>
+      <h3>WINNER:</h3>
+      <h3>William Terrence - 69.9%</h3>
+      <h3>RUNNER-UP:</h3>
+      <h3>Roger D. Wilson - 30.1%</h3>
+    </div>
+    <div class="election-2018-results-group">
+      <h2>Superior Court Judge 8</h2>
+      <h3>WINNER:</h3>
+      <h3>Robert Mangano - 71.95%</h3>
+      <h3>RUNNER-UP:</h3>
+      <h3>Brent Woodward - 28.05%</h3>
+    </div>
+    <div class="election-2018-results-group">
+      <h2>Superintendent of Public Instruction</h2>
+      <h3>ADVANCING TO GENERAL:</h3>
+      <h3>Marshall Tuck - 37.5%</h3>
+      <h3>Tony K. Thurmond - 35.4%</h3>
+    </div>
+    <div class="election-2018-results-group">
+      <h2>County Superintendent of Schools</h2>
+      <h3>WINNER (Unopposed):</h3>
+      <h3>Jim Yovino - 98.57%</h3>
+    </div>
+    <div class="election-2018-results-group">
+      <h2>Supervisor No. 1</h2>
+      <h3>WINNER:</h3>
+      <h3>Brian Pacheco - 79.31%</h3>
+      <h3>RUNNER-UP:</h3>
+      <h3>Jose Ornelas - 20.50%</h3>
+    </div>
+    <div class="election-2018-results-group">
+      <h2>Supervisor No. 4</h2>
+      <h3>WINNER (Unopposed):</h3>
+      <h3>Buddy Mendes - 98.77%</h3>
+    </div>
+    <div class="election-2018-results-group">
+      <h2>Assessor-Recorder</h2>
+      <h3>WINNER (Unopposed):</h3>
+      <h3>Paul Dictos - 98.94%</h3>
+    </div>
+    <div class="election-2018-results-group">
+      <h2>Auditor-Controller/Treasurer</h2>
+      <h3>ADVANCING TO GENERAL:</h3>
+      <h3>Oscar J. Garcia - 48.9%</h3>
+      <h3>David L. Keyes - 43.25%</h3>
+    </div>
+    <div class="election-2018-results-group">
+      <h2>County Clerk</h2>
+      <h3>WINNER:</h3>
+      <h3>Brandi L. Orth - 77.77%</h3>
+      <h3>RUNNER-UP:</h3>
+      <h3>S. Adrian Rivera - 22.07%</h3>
+    </div>
+    <div class="election-2018-results-group">
+      <h2>District Attorney</h2>
+      <h3>WINNER (Unopposed):</h3>
+      <h3>Lisa Smittcamp - 98.77%</h3>
+    </div>
+    <div class="election-2018-results-group">
+      <h2>Sheriff</h2>
+      <h3>WINNER (Unopposed):</h3>
+      <h3>Margaret Mims - 96.16%</h3>
+    </div>
+    <div class="election-2018-results-group">
+      <h2>Fresno City Council District 1</h2>
+      <h3>WINNER (Unopposed):</h3>
+      <h3>Esmerelda Soria - 96.49%</h3>
+    </div>
+    <div class="election-2018-results-group">
+      <h2>Fresno City Council District 3</h2>
+      <h3>ADVANCING TO GENERAL:</h3>
+      <h3>Miguel Arias - 29.62%</h3>
+      <h3>Tate Hill - 15.13%</h3>
+      <h3 style="border-top: 1px solid #f2f2f2; margin-top: 10px; padding-top: 5px;">TOP RUNNERS-UP:</h3>
+      <h3>Daren Miller - 15.07%</h3>
+      <h3>Craig Scharton - 14.47%</h3>
+    </div>
+    <div class="election-2018-results-group">
+      <h2>Fresno City Council District 5</h2>
+      <h3>ADVANCING TO GENERAL:</h3>
+      <h3>Luis Chavez - 40.96%</h3>
+      <h3>Paula Yang - 36.32%</h3>
+    </div>
+    <div class="election-2018-results-group">
+      <h2>Fresno City Council District 7</h2>
+      <h3>ADVANCING TO GENERAL:</h3>
+      <h3>Brian Daniel Whelan - 38.34%</h3>
+      <h3>Nelson Esparza - 37.68%</h3>
+    </div>
+    <h4 style="text-align: center; padding-top: 15px; width: 100%;">Source: <a href="http://www.co.fresno.ca.us/departments/county-clerk-registrar-of-voters/election-information/election-results/results-for-june-5-2018-statewide-primary-election">Fresno County Registrar of Voters</a>, <a href="https://vote.sos.ca.gov/">California Secretary of State</a>
+  </div>
+</div>
+</body>
+</html>
