@@ -1,0 +1,8 @@
+    <h1>California Lt. Governor</h1>
+    <h3><a href="http://gvwire.com/2018/01/29/take-5-lt-gov-candidate-ed-hernandez-stresses-health-care-economic-development-education/" target="_blank">Take 5: Lt. Gov. Candidate Ed Hernandez Stresses Health Care, Economic Development &amp; Education</a></h3>
+        <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/253346933?color=104b7d&title=0&byline=0&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div>
+	<p>&nbsp;</p>
+	<h2>RELATED STORIES:</h2>
+	<h3><a href="http://gvwire.com/2018/05/14/candidates-spend-big-in-california-lieutenant-governor-race/" target="_blank">Candidates Spend Big in California Lieutenant Governor Race</a></h3>
+	<h3><a href="http://gvwire.com/2017/07/21/lt-gov-hopeful-makes-fresno-stop/" target="_blank">Lt. Gov. Hopeful Makes Fresno Stop</a></h3>
+      <script src="https://player.vimeo.com/api/player.js"></script>

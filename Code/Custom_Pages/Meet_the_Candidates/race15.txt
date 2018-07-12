@@ -1,0 +1,7 @@
+    <h1>Congress CA 16</h1>
+    <h3><a href="http://gvwire.com/2018/04/12/will-elizabeth-heng-reach-her-next-big-goal-of-beating-jim-costa/" target="_blank">Will Elizabeth Heng Reach Her Next Big Goal of Beating Jim Costa?</a></h3>
+        <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/264480951?color=104b7d&title=0&byline=0&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div>
+	<p>&nbsp;</p>
+	<h2>RELATED STORIES:</h2>
+	<h3><a href="http://gvwire.com/2018/01/24/take-5-costa-pushes-immigration-fixes/" target="_blank">Take 5: Costa Pushes Back Against Trump, Seeks Immigration Fixes</a></h3>
+    <script src="https://player.vimeo.com/api/player.js"></script>

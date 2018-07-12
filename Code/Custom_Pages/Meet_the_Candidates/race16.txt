@@ -1,0 +1,6 @@
+    <h1>Congress CA 21</h1>
+    <h3><a href="http://gvwire.com/2018/02/20/congressman-valadao-gives-update-water-bill/" target="_blank">Valadao on Water, Farm Labor, Intelligence Memos &amp; 2018 Election</a></h3>
+        <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/255997753?color=104b7d&title=0&byline=0&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div>
+    <h3><a href="http://gvwire.com/2018/05/30/issues-matter-not-pelosi-as-tj-cox-talks-congressional-run/" target="_blank">Issues Matter, Not Pelosi, as TJ Cox Talks Congressional Run</a></h3>
+        <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/272665322?color=104b7d&title=0&byline=0&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div>
+	<script src="https://player.vimeo.com/api/player.js"></script>

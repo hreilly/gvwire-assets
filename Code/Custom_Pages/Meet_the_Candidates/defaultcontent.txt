@@ -1,0 +1,10 @@
+﻿    <img src="http://gvwire.com/wp-content/uploads/2018/05/2018_elections_headline-01.jpg">
+    <h3>Please select a race from the menu to see GV Wire interviews, forums and other related content.</h3>
+    <p>GV Wire has interviewed many of the candidates running for local, state and federal offices and provides these videos to assist voters. Candidates may request an interview by contacting GV Wire Operations Manager Randy Reed, 559.705.2107 or <a href="mailto:rreed@gvwire.com">rreed@gvwire.com</a>.</p>
+    <p style="font-style:italic;">No endorsement of a candidate is made or inferred by the inclusion of a candidate’s profile video on GV Wire.</p>
+    <h3><a href="http://www.sos.ca.gov/elections/polling-place/" target="_blank">Find your polling place <i class="fa fa-arrow-right" aria-hidden="true"></i></a></h3>
+    <h3><a href="https://www.govtrack.us/congress/members/map" target="_blank">Locate your U.S. Congress District <i class="fa fa-arrow-right" aria-hidden="true"></i></a></h3>
+    <h3><a href="http://findyourrep.legislature.ca.gov/" target="_blank">Find your State Senate and Assembly Districts <i class="fa fa-arrow-right" aria-hidden="true"></i></a></h3>
+    <h3><a href="https://www.fresno.gov/citycouncil/council-district-locator/" target="_blank">Fresno City Council Districts Map <i class="fa fa-arrow-right" aria-hidden="true"></i></a></h3>
+    <h3><a href="https://ballotpedia.org/California_2018_ballot_propositions" target="_blank">2018 CA Ballot Initiatives <i class="fa fa-arrow-right" aria-hidden="true"></i></a></h3>
+    <h3><a href="https://www.vote411.org/ballot" target="_blank">View a sample ballot based on your address <i class="fa fa-arrow-right" aria-hidden="true"></i></a></h3>

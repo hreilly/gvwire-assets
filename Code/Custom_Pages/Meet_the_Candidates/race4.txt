@@ -1,0 +1,6 @@
+    <h1>California Insurance Commissioner</h1>
+    <h3><a href="http://gvwire.com/2018/03/14/insurance-candidate-says-hes-triple-threat-president-trump/" target="_blank">Insurance Candidate Says He's a "Triple Threat" to President Trump</a></h3>
+        <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/260124253?color=104b7d&title=0&byline=0&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div>
+    <h3><a href="http://gvwire.com/2017/11/30/take-five-ricardo-lara-runs-insurance-commissioner/" target="_blank">Take Five: Ricardo Lara Runs for Insurance Commissioner</a></h3>
+        <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/245120004?color=104b7d&title=0&byline=0&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div>
+    <script src="https://player.vimeo.com/api/player.js"></script>

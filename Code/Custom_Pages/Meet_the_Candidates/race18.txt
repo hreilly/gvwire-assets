@@ -1,0 +1,6 @@
+    <h1>California Secretary of State</h1>
+    <h3><a href="http://gvwire.com/2018/06/04/secretary-of-state-candidate-meuser-targets-voter-fraud/" target="_blank">Secretary of State Candidate Meuser Targets Voter Fraud</a></h3>
+        <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/273372372?color=104b7d&title=0&byline=0&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div>
+	<h3><a href="http://gvwire.com/2017/05/16/should-non-citizens-vote-sec-of-state-says/" target="_blank">Should Non-Citizens Vote? Sec of State Says…</a></h3>
+        <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://www.youtube.com/embed/MtIBRA48OoE" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div>
+    <script src="https://player.vimeo.com/api/player.js"></script>

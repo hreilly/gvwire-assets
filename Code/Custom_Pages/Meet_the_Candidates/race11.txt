@@ -1,0 +1,6 @@
+    <h1>Fresno County Superior Court Judge 8th Office</h1>
+    <h3><a href="http://gvwire.com/2018/04/25/mangano-says-prosecutor-experience-is-ticket-to-the-bench/" target="_blank">Mangano Says Prosecutor Experience is Ticket to the Bench</a></h3>
+        <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/266215160?color=104b7d&title=0&byline=0&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div>
+    <h3><a href="http://gvwire.com/2018/04/17/take-5-woodward-wants-to-go-from-child-welfare-attorney-to-judge/" target="_blank">Woodward Wants to Go from Child Welfare Attorney to Judge</a></h3>
+        <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/265022812?color=104b7d&title=0&byline=0&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div>
+    <script src="https://player.vimeo.com/api/player.js"></script>

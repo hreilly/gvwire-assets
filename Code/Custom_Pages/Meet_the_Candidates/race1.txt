@@ -1,0 +1,21 @@
+    <h1>California Governor</h1>
+    <h3><a href="http://gvwire.com/2018/05/07/villaraigosa-makes-his-case-to-valley-voters/" target="_blank">Villaraigosa Makes His Case to Valley Voters</a></h3>
+        <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/267899229?color=104b7d&title=0&byline=0&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div>
+	<h3><a href="http://gvwire.com/2017/11/30/take-5-newsom-hsr-audit-toxic-masculinity/" target="_blank">Take Five: Newsom on HSR Audit, Toxic Masculinity</a></h3>
+        <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/245109304?color=104b7d&title=0&byline=0&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div>
+	<h3><a href="http://gvwire.com/2018/04/26/renteria-wants-to-go-from-valley-to-governors-mansion/" target="_blank">Renteria Wants to Go from Valley to Governor's Mansion</a></h3>
+        <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/266602711?color=104b7d&title=0&byline=0&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div>
+    <h3><a href="http://gvwire.com/2017/12/11/take-five-eastin-embraces-underdog-role-governor/" target="_blank">Eastin Embraces Underdog Role in California Gubernatorial Race</a></h3>
+        <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/245792988?color=104b7d&title=0&byline=0&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div>
+    <h3><a href="http://gvwire.com/2017/10/27/take-five-gop-john-cox-governor/" target="_blank">Take Five: Republican John Cox Offers Plan for California</a></h3>
+        <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/240051312?color=104b7d&title=0&byline=0&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div>
+    <h3><a href="http://gvwire.com/2017/10/25/take-five-gops-travis-allen-wants-to-be-your-governor/" target="_blank">Take FIve: GOP's Travis Allen Wants to be Your Governor</a></h3>
+        <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/239842776?title=0&byline=0&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div>
+	<p>&nbsp;</p>
+	<h2>RELATED STORIES:</h2>
+	<h3><a href="http://gvwire.com/2018/06/04/who-has-raised-most-money-in-california-gubernatorial-race/" target="_blank">Who Has Raised Most Money in California Gubernatorial Race?</a></h3>
+	<h3><a href="http://gvwire.com/2018/06/01/newsom-i-will-appoint-valley-reps-to-uc-csu-boards-as-gov/" target="_blank">Newsom: I Will Appoint Valley Reps to UC, CSU Boards as Gov</a></h3>
+	<h3><a href="http://gvwire.com/2018/05/31/laraigosa-gets-backing-from-conservative-fresno-police-chief-2/" target="_blank">Villaraigosa Gets Backing From Fresno Police Chief Dyer</a></h3>
+	<h3><a href="http://gvwire.com/2018/05/29/is-a-vote-for-cox-really-a-vote-for-newsom-villaraigosa-cox-disagree/" target="_blank">Is a Vote for Cox Really a Vote for Newsom? Villaraigosa, Cox Disagree.</a></h3>
+	<h3><a href="http://gvwire.com/2018/05/03/gop-voters-who-do-you-like-cox-or-allen/" target="_blank">GOP Voters, Who Do You Like: Cox or Allen?</a></h3>
+      <script src="https://player.vimeo.com/api/player.js"></script>
